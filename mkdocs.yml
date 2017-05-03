@@ -1,0 +1,14 @@
+site_name: Dhruv Thukral
+
+pages: 
+  - Home: index.md
+  - Resume: resume.md
+  - Publications: publications.md
+  - Patents: patents.md
+  - Blog & Videos: blog.md
+
+theme: cinder
+
+site_author: Dhruv Thukral
+
+site_favicon: favicon.ico
