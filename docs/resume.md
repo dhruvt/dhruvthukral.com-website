@@ -38,4 +38,4 @@ I am currently enrolled in the PhD program at USC. While it is on hold since I d
 ### University of Southern California ![USC Logo](../img/usc.jpg)
 ##### **Masters in Computer Science**                  2004-2006
 
-While pursuing my Masters degree at USC, I worked with [Prof. Mike Zyda](http://gamepipe.usc.edu/~zyda/) to helped build the USC Gaming Program. I was the first student of the program and worked with the CS Department and various faculty to helped build out course curriculum and determine Research and Development tracks. Today, the [USC Games](http://games.usc.edu/) program is recognized as the best gaming program in the country by the Princeton Review (and many others)
+While pursuing my Masters degree at USC, I worked with [Prof. Mike Zyda](http://gamepipe.usc.edu/~zyda/) to build the USC Gaming Program. I was the first student of the program and worked with the CS Department and various faculty to helped build out course curriculum and determine Research and Development tracks. Today, the [USC Games](http://games.usc.edu/) program is recognized as the best gaming program in the country by the Princeton Review (and many others)
