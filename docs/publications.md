@@ -1,5 +1,11 @@
 # PUBLICATIONS 
 
+### [Level Up Your Games with Amazon Aurora](https://aws.amazon.com/blogs/database/level-up-your-games-with-amazon-aurora/)
+##### **Amazon Web Services**                  2017
+
+In this blog post, we discuss how Amazon Aurora can help you build a reliable and scalable database tier using a sample reference architecture for a mobile game. We also highlight experiences from gaming customers who have already migrated their existing databases to Amazon Aurora.
+
+***
 ### [Optimizing Multiplayer Game Server Performance on AWS](https://d0.awsstatic.com/whitepapers/optimizing-multiplayer-game-server-performance-on-aws.pdf)
 ##### **Amazon Web Services**                  2016
 
