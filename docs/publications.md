@@ -1,5 +1,18 @@
 # PUBLICATIONS 
 
+### [AWS Gaming Analytics Pipeline](https://aws.amazon.com/answers/big-data/gaming-analytics-pipeline/)
+##### **Amazon Web Services**                  2017
+
+Automatically deploy a gaming analytics pipeline that collects, processes, and stores gameplay telemetry data. This solution provides best practices and guidance to consider when implementing a gameplay analytics solution, and introduces an AWS solution that helps customers more easily ingest, store, and analyze gameplay data. The Gaming Analytics Pipeline automatically provisions and configures the AWS services necessary to start consuming and analyzing gameplay data in minutes.
+
+***
+### [Introduction to Scalable Gaming Patterns on AWS](https://d1.awsstatic.com/whitepapers/aws-scalable-gaming-patterns.pdf)
+##### **Amazon Web Services**                  2017
+
+This whitepaper provides an overview of AWS services that can help architects, developers, operators (IT and DevOps), and technical leaders in the gaming industry build and deliver scalable, reliable, and cost effective cloud-enabled solutions for common gaming workloads, such as content updates, analytics, game servers, and other digital services.
+
+
+***
 ### [Level Up Your Games with Amazon Aurora](https://aws.amazon.com/blogs/database/level-up-your-games-with-amazon-aurora/)
 ##### **Amazon Web Services**                  2017
 

@@ -2,7 +2,14 @@
 
 ### **EMPLOYMENT**
 ### Amazon Web Services ![AWS Logo](../img/aws-logo.jpg)
-##### **Architect - Gaming, Mobile & IoT**                  2014-Present
+##### **Principal Architect**                  2017-Present
+
+Principal Architect at Amazon Web Services. 
+
+
+***
+### Amazon Web Services ![AWS Logo](../img/aws-logo.jpg)
+##### **Architect - Gaming, Mobile & IoT**                  2014-2017
 
 I currently help gaming and mobile customers, both internal and external, build Highly Available, Scalable and Reliable platforms and services on Amazon Web Services. I have been a user of AWS for the past 8 years and use my knowledge from my previous development and technical leadership roles to help customers understand, navigate and extract the full benefit of migrating their services to the cloud. If you are a gaming customer, no matter how big or small please reach out to me via LinkedIn.
 
