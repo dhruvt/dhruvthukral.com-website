@@ -1,7 +1,14 @@
 # PUBLICATIONS 
 
+### [Level Up Your Games with Amazon Aurora - Part 2](https://aws.amazon.com/blogs/database/level-up-your-games-with-amazon-aurora/)
+##### **Amazon Web Services**                  2019
+
+In this updated blog post, we discuss how Amazon Aurora can help you build a reliable and scalable database tier using a sample reference architecture for a mobile game with newer advanced features for Aurora since our last publication. We also highlight experiences from more gaming customers who have already migrated their existing databases to Amazon Aurora.
+
+***
+
 ### [AWS Gaming Analytics Pipeline](https://aws.amazon.com/answers/big-data/gaming-analytics-pipeline/)
-##### **Amazon Web Services**                  2017
+##### **Amazon Web Services**                  2018
 
 Automatically deploy a gaming analytics pipeline that collects, processes, and stores gameplay telemetry data. This solution provides best practices and guidance to consider when implementing a gameplay analytics solution, and introduces an AWS solution that helps customers more easily ingest, store, and analyze gameplay data. The Gaming Analytics Pipeline automatically provisions and configures the AWS services necessary to start consuming and analyzing gameplay data in minutes.
 
@@ -13,7 +20,7 @@ This whitepaper provides an overview of AWS services that can help architects, d
 
 
 ***
-### [Level Up Your Games with Amazon Aurora](https://aws.amazon.com/blogs/database/level-up-your-games-with-amazon-aurora/)
+### [Level Up Your Games with Amazon Aurora - Part 1](https://aws.amazon.com/blogs/database/level-up-your-games-with-amazon-aurora/)
 ##### **Amazon Web Services**                  2017
 
 In this blog post, we discuss how Amazon Aurora can help you build a reliable and scalable database tier using a sample reference architecture for a mobile game. We also highlight experiences from gaming customers who have already migrated their existing databases to Amazon Aurora.

@@ -1,8 +1,18 @@
-##Blog (Coming Soon)
+##Presentations
 
-##Videos
+A Playlist of some of my Public Speaking Engagements
 
-A Video Playlist of some of my Public Speaking Engagements
+### [AWS re:Invent 2018: Activision Blizzard: Giving Call of Duty Gamers an Edge with Alexa & AWS (GAM302)](https://www.youtube.com/watch?v=k6ZYz7-tfkY)
+##### **Las Vegas**                  2018
+
+<iframe type="text/html" 
+    width="640" 
+    height="385" 
+    src="https://www.youtube.com/embed/k6ZYz7-tfkY"
+    frameborder="0">
+</iframe>
+
+***
 
 ### [AWS re:Invent 2016: Building a Massive Microservices Platform Worthy of the Game of Thrones (ARC403)](https://www.youtube.com/watch?v=5Ux_FdCdwrk)
 ##### **Las Vegas**                  2016

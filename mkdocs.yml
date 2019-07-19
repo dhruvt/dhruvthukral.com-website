@@ -5,7 +5,7 @@ pages:
   - Resume: resume.md
   - Publications: publications.md
   - Patents: patents.md
-  - Blog & Videos: blog.md
+  - Presentations: presentations.md
 
 theme: cinder
 
